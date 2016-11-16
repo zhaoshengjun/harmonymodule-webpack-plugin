@@ -1,0 +1,18 @@
+{
+  "name": "webpack2-default-export",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack && node dist/bundle.js"
+  },
+  "dependencies": {
+    "webpack": "^2.1.0-beta.25",
+    "babel-core": "6.17.0",
+    "babel-loader": "6.2.5",
+    "babel-preset-latest": "6.16.0",
+    "babel-preset-react": "6.16.0",
+    "babel-preset-stage-0": "6.16.0",
+    "harmonymodule-webpack-plugin":"0.1.0"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "harmonymodule-webpack-plugin",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Sam Zhao <zhao.shengjun@gmail.com> (https://zhaoshengjun.github.io/)",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/zhaoshengjun/harmonymodule-webpack-plugin",
+    "type": "git"
+  },
+  "files": [
+    "index.js"
+  ]
+}
