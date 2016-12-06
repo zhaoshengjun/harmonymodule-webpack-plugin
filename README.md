@@ -12,7 +12,7 @@ This plugin is to solve this situation.
 
 ## How
 
-1. `npm i -D harmonymodule-webapck-plugin` or `yarn add --dev harmony-module-webpack-plugin`
+1. `npm i -D harmonymodule-webapck-plugin` or `yarn add --dev harmonymodule-webpack-plugin`
 2. use this plugin in your `webpack.config.babel.js`. 
 
 This repo has included an `example` folder to show how to use it as well.
